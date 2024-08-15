@@ -4,6 +4,6 @@ This project aims to harness the power of convolutional neural networks (CNNs) t
 Level 0 (mild acne), Level 1 (moderate acne), Level 2 (severe acne). 
 We start with comprehensive data collection and preprocessing, followed by meticulous model development and validation to ensure accuracy. 
 The trained model is then integrated into a user-friendly mobile application, designed for easy use and real-time assessment. 
-<image  width="200" src="https://tse1.explicit.bing.net/th?id=OIP.b2O3nn-TclhJ7LLDgCF_yQHaLG&pid=Api&P=0&h=180">
+<image align="right"  width="400" src="https://tse1.explicit.bing.net/th?id=OIP.b2O3nn-TclhJ7LLDgCF_yQHaLG&pid=Api&P=0&h=180">
 
 
